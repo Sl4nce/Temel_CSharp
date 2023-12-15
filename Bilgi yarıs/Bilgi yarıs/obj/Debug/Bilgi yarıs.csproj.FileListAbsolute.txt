@@ -1,0 +1,11 @@
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\bin\Debug\Bilgi yarıs.exe.config
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\bin\Debug\Bilgi yarıs.exe
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\bin\Debug\Bilgi yarıs.pdb
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\obj\Debug\Bilgi yarıs.csproj.AssemblyReference.cache
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\obj\Debug\Bilgi yarıs.csproj.SuggestedBindingRedirects.cache
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\obj\Debug\Bilgi_yarıs.Form1.resources
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\obj\Debug\Bilgi_yarıs.Properties.Resources.resources
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\obj\Debug\Bilgi yarıs.csproj.GenerateResource.cache
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\obj\Debug\Bilgi yarıs.csproj.CoreCompileInputs.cache
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\obj\Debug\Bilgi yarıs.exe
+C:\Users\canbo\source\repos\Bilgi yarıs\Bilgi yarıs\obj\Debug\Bilgi yarıs.pdb

@@ -1,0 +1,11 @@
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\bin\Debug\Loginprojesi.exe.config
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\bin\Debug\Loginprojesi.exe
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\bin\Debug\Loginprojesi.pdb
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\obj\Debug\Loginprojesi.csproj.AssemblyReference.cache
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\obj\Debug\Loginprojesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\obj\Debug\Loginprojesi.Form1.resources
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\obj\Debug\Loginprojesi.Properties.Resources.resources
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\obj\Debug\Loginprojesi.csproj.GenerateResource.cache
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\obj\Debug\Loginprojesi.csproj.CoreCompileInputs.cache
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\obj\Debug\Loginprojesi.exe
+C:\Users\canbo\source\repos\Loginprojesi\Loginprojesi\obj\Debug\Loginprojesi.pdb
